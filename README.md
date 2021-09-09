@@ -20,3 +20,11 @@ OBSERVAÇÕES GERAIS
 - Todo o resto deve ser mockado diretamente no próprio app (produtos, pedidos, etc);
 
 DOWNLOAD APK : https://mega.nz/file/HLgi2TgY#r3QWN4arEFT7NJcACqSASz8-0I9nKGbQJVZO8kIV80Y
+
+
+![Image of modern feed in action](./assets/tela.1.png)
+![Image of modern feed in action](./assets/tela.2.png)
+![Image of modern feed in action](./assets/tela.3.png)
+![Image of modern feed in action](./assets/tela.4.png)
+![Image of modern feed in action](./assets/tela.5.png)
+
