@@ -1,3 +1,4 @@
+<div align="center">
 # RN-Ecommerce-Astronomy
 
 
@@ -27,4 +28,6 @@ DOWNLOAD APK : https://mega.nz/file/HLgi2TgY#r3QWN4arEFT7NJcACqSASz8-0I9nKGbQJVZ
 ![](./assets/tela.3.png)
 ![](./assets/tela.4.png)
 ![](./assets/tela.5.png)
+  
+</div>
 
