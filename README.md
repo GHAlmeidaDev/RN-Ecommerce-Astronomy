@@ -22,6 +22,6 @@ OBSERVAÇÕES GERAIS
 DOWNLOAD APK : https://mega.nz/file/HLgi2TgY#r3QWN4arEFT7NJcACqSASz8-0I9nKGbQJVZO8kIV80Y
 
 
-![Splash](./assets/tela.1.png)
+![Splash](/assets/tela.1.png)
 
 
