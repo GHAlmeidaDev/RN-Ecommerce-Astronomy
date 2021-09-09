@@ -19,3 +19,4 @@ OBSERVAÇÕES GERAIS
 - A integração da parte de autenticação deve utilizar a API do REQ|RES (https://reqres.in);
 - Todo o resto deve ser mockado diretamente no próprio app (produtos, pedidos, etc);
 
+DOWNLOAD APK (https://mega.nz/file/HLgi2TgY#r3QWN4arEFT7NJcACqSASz8-0I9nKGbQJVZO8kIV80Y)
