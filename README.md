@@ -23,8 +23,5 @@ DOWNLOAD APK : https://mega.nz/file/HLgi2TgY#r3QWN4arEFT7NJcACqSASz8-0I9nKGbQJVZ
 
 
 ![Splash](./assets/tela.1.png)
-![Landing](./assets/tela.2.png)
-![Login](./assets/tela.3.png)
-![Home](./assets/tela.4.png)
-![Category](./assets/tela.5.png)
+
 
